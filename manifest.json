@@ -1,13 +1,13 @@
 {
-  "name": "Maikon Caldeira - Advocacia Digital",
-  "short_name": "MC Advocacia",
+  "name": "meu pwa16 13-10-2026, 01-26-59",
+  "short_name": "meu pwa16 13",
   "description": "Sistema completo de ferramentas jurídicas e produtividade",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
-  "background_color": "#0a0a0a",
-  "theme_color": "#5d5e53",
+  "background_color": "#0f1420",
+  "theme_color": "#0f1420",
   "icons": [
     {
       "src": "icons/icon-48.png",
@@ -90,148 +90,8 @@
   ],
   "shortcuts": [
     {
-      "name": "1",
-      "short_name": "1",
-      "description": "App",
-      "url": "./1.codigo.html",
-      "icons": [
-        {
-          "src": "./icon-192.png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "2",
-      "short_name": "2",
-      "description": "App",
-      "url": "./2.codigo.html",
-      "icons": [
-        {
-          "src": "./icon-192.png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "3",
-      "short_name": "3",
-      "description": "App",
-      "url": "./3.codigo.html",
-      "icons": [
-        {
-          "src": "./icon-192.png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "4",
-      "short_name": "4",
-      "description": "App",
-      "url": "./4.codigo.html",
-      "icons": [
-        {
-          "src": "./icon-192.png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "5",
-      "short_name": "5",
-      "description": "App",
-      "url": "./5.codigo.html",
-      "icons": [
-        {
-          "src": "./icon-192.png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "6",
-      "short_name": "6",
-      "description": "App",
-      "url": "./6.codigo.html",
-      "icons": [
-        {
-          "src": "./icon-192.png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "7",
-      "short_name": "7",
-      "description": "App",
-      "url": "./7.codigo.html",
-      "icons": [
-        {
-          "src": "./icon-192.png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "8",
-      "short_name": "8",
-      "description": "App",
-      "url": "./8.codigo.html",
-      "icons": [
-        {
-          "src": "./icon-192.png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "9",
-      "short_name": "9",
-      "description": "App",
-      "url": "./9.codigo.html",
-      "icons": [
-        {
-          "src": "./icon-192.png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "10",
-      "short_name": "10",
-      "description": "App",
-      "url": "./10.codigo.html",
-      "icons": [
-        {
-          "src": "./icon-192.png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "11",
-      "short_name": "11",
-      "description": "App",
-      "url": "./11.codigo.html",
-      "icons": [
-        {
-          "src": "./icon-192.png",
-          "sizes": "192x192"
-        }
-      ]
-    },
-    {
-      "name": "12",
-      "short_name": "12",
-      "description": "App",
-      "url": "./12.codigo.html",
-      "icons": [
-        {
-          "src": "./icon-192.png",
-          "sizes": "192x192"
-        }
-      ]
+      "name": "Maikon Caldeira - Advocacia Digital",
+      "url": "Index.html"
     }
   ],
   "categories": [
@@ -241,5 +101,5 @@
   ],
   "lang": "pt-BR",
   "dir": "ltr",
-  "id": "./app-maikon-caldeira-advocacia-digi"
+  "id": "./app-meu-pwa16-13-10-2026-01-26-59"
 }

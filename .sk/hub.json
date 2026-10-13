@@ -1,6 +1,6 @@
 {
   "titulo": "meu pwa16 13-10-2026, 01-26-59",
-  "arquivo": "",
+  "arquivo": "index.html",
   "itens": [
     {
       "path": "1.codigo.html",
@@ -246,9 +246,13 @@
       "path": "Index.html",
       "nome": "Maikon Caldeira - Advocacia Digital",
       "desc": "",
-      "on": false,
+      "on": true,
       "icone": "icons/icon.svg",
       "emoji": "⚖️"
     }
-  ]
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
 }

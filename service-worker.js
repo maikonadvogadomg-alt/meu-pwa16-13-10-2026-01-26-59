@@ -1,7 +1,7 @@
-// service-worker.js — gerado pelo Mini SK em 13/10/2026, 01:29:45
+// service-worker.js — gerado pelo Mini SK em 13/10/2026, 01:32:13
 // Não precisa mexer: ele guarda sozinho o que o app usa.
-const PREFIXO = 'sk-maikon-caldeira-advocacia-digi-';
-const CACHE = PREFIXO + 'mv66mguz';
+const PREFIXO = 'sk-meu-pwa16-13-10-2026-01-26-59-';
+const CACHE = PREFIXO + 'mv66pmn1';
 // Lista feita automaticamente (para funcionar sem internet logo após instalar)
 const GUARDAR = [
   "./",
@@ -55,6 +55,7 @@ const GUARDAR = [
   "./icons/maskable-192.png",
   "./icons/maskable-512.png",
   "./icons/maskable.svg",
+  "./index.html",
   "./Index.html",
   "./manifest.json",
   "./sw.js"
